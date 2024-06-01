@@ -1,0 +1,56 @@
+#
+#
+#
+
+newmtl _lambert7
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 1.000000
+map_Kd white.png
+
+newmtl _lambert5
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 1.000000
+map_Kd checkerB.png
+map_Ks checkerB_spec.png
+
+newmtl _lambert3
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 1.000000
+map_Kd checkerB.png
+map_Ks checkerB_spec.png
+
+newmtl _lambert1
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 1.000000
+map_Kd IndentC.png
+
+newmtl _lambert1
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 1.000000
+map_Kd IndentC.png
+map_Ks IndentC_spec.png
+
+newmtl _lambert6
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 1.000000
+map_Kd checkerB.png
+map_Ks checkerB_spec.png
+
